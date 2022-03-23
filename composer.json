@@ -1,0 +1,21 @@
+{
+    "name": "coding-sniper/mpesa-c2b",
+    "description": "A PHP package for easily implementing Mpesa(Daraja) C2B checkout API.",
+    "type": "library",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "license": "MIT",
+    "autoload": {
+        "psr-4": {
+            "CodingSniper\\MpesaC2B\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "mutuku-daniel",
+            "email": "daniel.mutuku404@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev"
+}
