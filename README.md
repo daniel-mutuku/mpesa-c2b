@@ -25,8 +25,8 @@ Fill in your credentials on the credentials.json file
   "partyb" : "",
   "shortcode" : "",
   "pass_key" : "",
-  "country_code" : "", // eg 254 for Kenya. Don't prefix +
-  "environment" : "live" //live or demo
+  "country_code" : "", 
+  "environment" : "live"
 
 }
 ```
